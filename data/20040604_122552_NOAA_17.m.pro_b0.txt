@@ -1,0 +1,57 @@
+formatType: 255
+satName: b'NOAA 17'
+satId: 27453
+revNum: 10110
+year: 2004
+day: 156
+dayTime: 44752648
+o_year: 0
+o_day: 0
+o_time: 0
+reserved: [32 52 45 48 54 45 50 48 48 52 32 49 50 58 50 53 58 53 50 46 54 52  0]
+receiver: 0
+dataType1: 3
+dataType2: 1
+processLevel: 3
+channel: 4
+maxPixelValue: 2671
+projType: 1
+scanNum: 1465
+pixNum: 1540
+lat: 30.0
+lon: 137.0
+latSize: 15.0
+lonSize: 20.010000228881836
+latRes: 46.79999923706055
+lonRes: 46.79999923706055
+ka: 0.1
+kb: -219.1
+channelName: b''
+NORADrevNum: 10094
+setNum: 0
+ephemType: 0
+NORADyear: 2004
+yearTime: 155.38779435
+n0: 0.06211340098248264
+bstar: 9.8214e-05
+i0: 1.7226260090843857
+raan: 3.9759856997492222
+e0: 0.0012783
+w0: 1.3235145877138348
+m0: 4.964205084862427
+dataName: b''
+dataUnitsName: b''
+corVersion: 2
+orbitModelType: 0
+corTime: 0
+corRoll: 0.001925941552645531
+corPitch: -0.003658269486865896
+corYaw: 0.00019291988394675824
+gravitModel: 0
+spare: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]

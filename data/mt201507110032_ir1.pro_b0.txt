@@ -1,0 +1,57 @@
+formatType: 255
+satName: b'MTSAT-1R'
+satId: 28622
+revNum: 0
+year: 2015
+day: 192
+dayTime: 1876607
+o_year: 0
+o_day: 0
+o_time: 0
+reserved: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+receiver: 2
+dataType1: 3
+dataType2: 19
+processLevel: 1
+channel: 1
+maxPixelValue: 17570
+projType: 2
+scanNum: 2101
+pixNum: 2101
+lat: 0.0
+lon: 110.0
+latSize: 70.0
+lonSize: 70.0
+latRes: 120.0
+lonRes: 120.0
+ka: 0.01
+kb: -144.0
+channelName: b'HRIT'
+NORADrevNum: 0
+setNum: 0
+ephemType: 0
+NORADyear: 0
+yearTime: 0.0
+n0: 0.0
+bstar: 0.0
+i0: 0.0
+raan: 0.0
+e0: 0.0
+w0: 0.0
+m0: 0.0
+dataName: b'BRIGHTNESS TEMPRS'
+dataUnitsName: b'GRADUS CELSIUS'
+corVersion: 0
+orbitModelType: 0
+corTime: 0
+corRoll: 0.0
+corPitch: 0.0
+corYaw: 0.0
+gravitModel: 0
+spare: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]

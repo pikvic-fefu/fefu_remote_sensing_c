@@ -1,0 +1,57 @@
+formatType: 255
+satName: b'NOAA 15'
+satId: 25338
+revNum: 86614
+year: 2015
+day: 8
+dayTime: 74201295
+o_year: 0
+o_day: 0
+o_time: 0
+reserved: [32 56 45 48 49 45 50 48 49 53 32 50 48 58 51 54 58 52 49 46 50 57  0]
+receiver: 3
+dataType1: 3
+dataType2: 1
+processLevel: 3
+channel: 4
+maxPixelValue: 463
+projType: 1
+scanNum: 1205
+pixNum: 1213
+lat: 24.0
+lon: 124.0
+latSize: 12.0
+lonSize: 14.0
+latRes: 41.56999969482422
+lonRes: 41.56999969482422
+ka: 0.1
+kb: -21.0
+channelName: b''
+NORADrevNum: 86609
+setNum: 0
+ephemType: 0
+NORADyear: 2015
+yearTime: 8.51443174
+n0: 0.06220115055221937
+bstar: 0.00011283
+i0: 1.7237918890247197
+raan: 0.12421159220593243
+e0: 0.0009584
+w0: 4.735933471994093
+m0: 4.342078982330549
+dataName: b''
+dataUnitsName: b''
+corVersion: 2
+orbitModelType: 0
+corTime: 0
+corRoll: 0.00012439789855503338
+corPitch: 0.0022982426943712647
+corYaw: -0.004023706710885431
+gravitModel: 0
+spare: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
